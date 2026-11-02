@@ -9,5 +9,6 @@
    6
   ]
  },
- "shelf_cache_ttl_hours": 24
+ "shelf_cache_ttl_hours": 24,
+ "player_page_base": "https://vollcanojoe.github.io/kids-browser-brain/player.html"
 }
