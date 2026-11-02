@@ -5,7 +5,7 @@
    "id": "wikipedia-en",
    "name": "Wikipedia",
    "url": "https://en.wikipedia.org",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -17,7 +17,7 @@
    "id": "wikipedia-simple",
    "name": "Simple Wikipedia",
    "url": "https://simple.wikipedia.org",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -29,7 +29,7 @@
    "id": "khan-academy",
    "name": "Khan Academy",
    "url": "https://www.khanacademy.org",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -41,7 +41,7 @@
    "id": "nasa",
    "name": "NASA",
    "url": "https://www.nasa.gov",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -53,7 +53,7 @@
    "id": "nasa-space-place",
    "name": "NASA Space Place",
    "url": "https://spaceplace.nasa.gov",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -65,7 +65,7 @@
    "id": "natgeo-kids",
    "name": "National Geographic Kids",
    "url": "https://kids.nationalgeographic.com",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -77,7 +77,7 @@
    "id": "britannica-kids",
    "name": "Britannica Kids",
    "url": "https://kids.britannica.com",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -89,7 +89,7 @@
    "id": "howstuffworks",
    "name": "HowStuffWorks",
    "url": "https://www.howstuffworks.com",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -101,7 +101,7 @@
    "id": "smithsonian",
    "name": "Smithsonian",
    "url": "https://www.si.edu",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -113,7 +113,7 @@
    "id": "project-gutenberg",
    "name": "Project Gutenberg",
    "url": "https://www.gutenberg.org",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -125,7 +125,7 @@
    "id": "san-diego-zoo-kids",
    "name": "San Diego Zoo Wildlife Explorers",
    "url": "https://kids.sandiegozoo.org",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina",
     "lyra"
@@ -137,7 +137,7 @@
    "id": "apod",
    "name": "Astronomy Picture of the Day",
    "url": "https://apod.nasa.gov",
-   "categories": null,
+   "categories": "Curiosity",
    "profiles": [
     "katrina",
     "lyra"
@@ -149,7 +149,7 @@
    "id": "google-arts-culture",
    "name": "Google Arts & Culture",
    "url": "https://artsandculture.google.com",
-   "categories": null,
+   "categories": "Curiosity",
    "profiles": [
     "katrina",
     "lyra"
@@ -161,7 +161,7 @@
    "id": "exploratorium",
    "name": "Exploratorium",
    "url": "https://www.exploratorium.edu",
-   "categories": null,
+   "categories": "Curiosity",
    "profiles": [
     "katrina",
     "lyra"
@@ -173,7 +173,7 @@
    "id": "neal-fun",
    "name": "Neal.fun",
    "url": "https://neal.fun",
-   "categories": null,
+   "categories": "Curiosity",
    "profiles": [
     "katrina",
     "lyra"
@@ -185,7 +185,7 @@
    "id": "scale-of-the-universe",
    "name": "The Scale of the Universe 2",
    "url": "https://htwins.net/scale2/",
-   "categories": null,
+   "categories": "Curiosity",
    "profiles": [
     "katrina",
     "lyra"
@@ -197,7 +197,7 @@
    "id": "stellarium-web",
    "name": "Stellarium Web",
    "url": "https://stellarium-web.org",
-   "categories": null,
+   "categories": "Curiosity",
    "profiles": [
     "katrina",
     "lyra"
@@ -209,7 +209,7 @@
    "id": "monterey-bay-aquarium",
    "name": "Monterey Bay Aquarium",
    "url": "https://www.montereybayaquarium.org",
-   "categories": null,
+   "categories": "Curiosity",
    "profiles": [
     "katrina",
     "lyra"
@@ -221,7 +221,7 @@
    "id": "zoomquilt",
    "name": "Zoomquilt",
    "url": "https://zoomquilt.org",
-   "categories": null,
+   "categories": "Curiosity",
    "profiles": [
     "katrina",
     "lyra"
@@ -233,7 +233,7 @@
    "id": "kid-should-see-this",
    "name": "The Kid Should See This",
    "url": "https://thekidshouldseethis.com",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina",
     "lyra"
@@ -245,7 +245,7 @@
    "id": "mark-rober",
    "name": "Mark Rober",
    "url": "https://www.youtube.com/@MarkRober",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina",
     "lyra"
@@ -258,7 +258,7 @@
    "id": "kurzgesagt",
    "name": "Kurzgesagt \u2013 In a Nutshell",
    "url": "https://www.youtube.com/@kurzgesagt",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina",
     "lyra"
@@ -271,7 +271,7 @@
    "id": "scishow",
    "name": "SciShow",
    "url": "https://www.youtube.com/@SciShow",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina",
     "lyra"
@@ -284,7 +284,7 @@
    "id": "scishow-kids",
    "name": "SciShow Kids",
    "url": "https://www.youtube.com/@SciShowKids",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina",
     "lyra"
@@ -297,7 +297,7 @@
    "id": "crash-course-kids",
    "name": "Crash Course Kids",
    "url": "https://www.youtube.com/@CrashCourseKids",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina",
     "lyra"
@@ -310,7 +310,7 @@
    "id": "veritasium",
    "name": "Veritasium",
    "url": "https://www.youtube.com/@veritasium",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina",
     "lyra"
@@ -323,7 +323,7 @@
    "id": "minute-earth",
    "name": "MinuteEarth",
    "url": "https://www.youtube.com/@MinuteEarth",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina",
     "lyra"
@@ -336,7 +336,7 @@
    "id": "smarter-every-day",
    "name": "Smarter Every Day",
    "url": "https://www.youtube.com/@SmarterEveryDay",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina",
     "lyra"
@@ -349,7 +349,7 @@
    "id": "pbs-eons",
    "name": "PBS Eons",
    "url": "https://www.youtube.com/@eons",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina",
     "lyra"
@@ -362,7 +362,7 @@
    "id": "numberphile",
    "name": "Numberphile",
    "url": "https://www.youtube.com/@Numberphile",
-   "categories": null,
+   "categories": "Curiosity",
    "profiles": [
     "katrina",
     "lyra"
@@ -375,7 +375,7 @@
    "id": "pbs-kids",
    "name": "PBS KIDS",
    "url": "https://pbskids.org",
-   "categories": null,
+   "categories": "Games",
    "profiles": [
     "katrina",
     "lyra"
@@ -387,7 +387,7 @@
    "id": "cool-math-games",
    "name": "Cool Math Games",
    "url": "https://www.coolmathgames.com",
-   "categories": null,
+   "categories": "Games",
    "profiles": [
     "katrina",
     "lyra"
@@ -399,7 +399,7 @@
    "id": "math-playground",
    "name": "Math Playground",
    "url": "https://www.mathplayground.com",
-   "categories": null,
+   "categories": "Games",
    "profiles": [
     "katrina",
     "lyra"
@@ -411,7 +411,7 @@
    "id": "code-org",
    "name": "Code.org",
    "url": "https://code.org",
-   "categories": null,
+   "categories": "Create & Build",
    "profiles": [
     "katrina",
     "lyra"
@@ -423,7 +423,7 @@
    "id": "makecode-arcade",
    "name": "MakeCode Arcade",
    "url": "https://arcade.makecode.com",
-   "categories": null,
+   "categories": "Create & Build",
    "profiles": [
     "katrina",
     "lyra"
@@ -435,7 +435,7 @@
    "id": "photopea",
    "name": "Photopea",
    "url": "https://www.photopea.com",
-   "categories": null,
+   "categories": "Create & Build",
    "profiles": [
     "katrina",
     "lyra"
@@ -447,7 +447,7 @@
    "id": "piskel",
    "name": "Piskel",
    "url": "https://www.piskelapp.com",
-   "categories": null,
+   "categories": "Create & Build",
    "profiles": [
     "katrina",
     "lyra"
@@ -459,7 +459,7 @@
    "id": "kleki",
    "name": "Kleki",
    "url": "https://kleki.com",
-   "categories": null,
+   "categories": "Create & Build",
    "profiles": [
     "katrina",
     "lyra"
@@ -471,7 +471,7 @@
    "id": "beepbox",
    "name": "BeepBox",
    "url": "https://beepbox.co",
-   "categories": null,
+   "categories": "Create & Build",
    "profiles": [
     "katrina",
     "lyra"
@@ -483,7 +483,7 @@
    "id": "autodraw",
    "name": "AutoDraw",
    "url": "https://www.autodraw.com",
-   "categories": null,
+   "categories": "Create & Build",
    "profiles": [
     "katrina",
     "lyra"
@@ -495,7 +495,7 @@
    "id": "lofi-girl",
    "name": "Lofi Girl",
    "url": "https://www.youtube.com/@LofiGirl",
-   "categories": null,
+   "categories": "Music",
    "profiles": [
     "katrina",
     "lyra"
@@ -508,7 +508,7 @@
    "id": "piano-guys",
    "name": "The Piano Guys",
    "url": "https://www.youtube.com/@ThePianoGuys",
-   "categories": null,
+   "categories": "Music",
    "profiles": [
     "katrina",
     "lyra"
@@ -521,7 +521,7 @@
    "id": "pentatonix",
    "name": "Pentatonix",
    "url": "https://www.youtube.com/@PTXofficial",
-   "categories": null,
+   "categories": "Music",
    "profiles": [
     "katrina",
     "lyra"
@@ -534,7 +534,7 @@
    "id": "pokemon-official",
    "name": "Pok\u00e9mon Official Site",
    "url": "https://www.pokemon.com",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina"
    ],
@@ -545,7 +545,7 @@
    "id": "pokemon-database",
    "name": "Pok\u00e9mon Database",
    "url": "https://pokemondb.net",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina"
    ],
@@ -556,7 +556,7 @@
    "id": "bulbapedia",
    "name": "Bulbapedia",
    "url": "https://bulbapedia.bulbagarden.net",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "katrina"
    ],
@@ -567,7 +567,7 @@
    "id": "colorful-stage",
    "name": "Hatsune Miku: Colorful Stage! (Official Site)",
    "url": "https://www.colorfulstage.com",
-   "categories": null,
+   "categories": "Games",
    "profiles": [
     "katrina"
    ],
@@ -578,7 +578,7 @@
    "id": "mystery-skulls-band",
    "name": "Mystery Skulls",
    "url": "https://www.youtube.com/@mysteryskulls",
-   "categories": null,
+   "categories": "Music",
    "profiles": [
     "katrina"
    ],
@@ -590,7 +590,7 @@
    "id": "mystery-skulls-animated",
    "name": "Mystery Skulls Animated (Mystery Ben)",
    "url": "https://www.youtube.com/@mysteryben27",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina"
    ],
@@ -602,7 +602,7 @@
    "id": "game-theory",
    "name": "Game Theory",
    "url": "https://www.youtube.com/@GameTheory",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "katrina"
    ],
@@ -614,7 +614,7 @@
    "id": "wiljum",
    "name": "Willjum",
    "url": "https://www.youtube.com/@Willjum",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "lyra"
    ],
@@ -626,7 +626,7 @@
    "id": "zelda-official",
    "name": "The Legend of Zelda \u2014 Official Site",
    "url": "https://zelda.nintendo.com",
-   "categories": null,
+   "categories": "Games",
    "profiles": [
     "lyra"
    ],
@@ -637,7 +637,7 @@
    "id": "zelda-wiki",
    "name": "Zelda Wiki",
    "url": "https://zeldawiki.wiki",
-   "categories": null,
+   "categories": "Learn & Explore",
    "profiles": [
     "lyra"
    ],
@@ -648,7 +648,7 @@
    "id": "strategywiki-zelda-totk",
    "name": "StrategyWiki \u2014 Zelda: Tears of the Kingdom Guide",
    "url": "https://strategywiki.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom",
-   "categories": null,
+   "categories": "Games",
    "profiles": [
     "lyra"
    ],
@@ -659,7 +659,7 @@
    "id": "zelda-universe-tv",
    "name": "Zelda Universe",
    "url": "https://www.youtube.com/@ZeldaUniverseTV",
-   "categories": null,
+   "categories": "Videos",
    "profiles": [
     "lyra"
    ],

@@ -1,8 +1,8 @@
 {
- "brain_version": 1,
- "updated_at": "2026-11-02T04:46:07.022606+00:00",
+ "brain_version": 2,
+ "updated_at": "2026-11-02T05:29:02.008331+00:00",
  "files": {
-  "catalog.json": "680ef579476e37eea3edc201dae9060ac0c66a3772edc95359ba4a20d2dffdde",
+  "catalog.json": "2feec2eb4baaea9258ac8ad3af6882e3d74c58f66edafdff325c91bea4e6b4be",
   "shelves.json": "3607f7c0a7a3c6bf31411e9ab018b3094a2f85077fd6fb9a2efc2ce9f5d9fd82",
   "config.json": "d06cc994e9e97341039c3e9d7090294ae535a280d01c883d367ee7d29bbc8425"
  }
