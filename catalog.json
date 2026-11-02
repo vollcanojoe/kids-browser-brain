@@ -1,0 +1,671 @@
+{
+ "generated_at": "2026-11-01",
+ "records": [
+  {
+   "id": "wikipedia-en",
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Look up anything \u2014 animals, space, history, games, people.",
+   "type": "site"
+  },
+  {
+   "id": "wikipedia-simple",
+   "name": "Simple Wikipedia",
+   "url": "https://simple.wikipedia.org",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Wikipedia written in simpler words \u2014 same topics, easier reading.",
+   "type": "site"
+  },
+  {
+   "id": "khan-academy",
+   "name": "Khan Academy",
+   "url": "https://www.khanacademy.org",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Free lessons and practice for math, science, reading, and more.",
+   "type": "site"
+  },
+  {
+   "id": "nasa",
+   "name": "NASA",
+   "url": "https://www.nasa.gov",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Space news, rocket launches, and photos from the real space agency.",
+   "type": "site"
+  },
+  {
+   "id": "nasa-space-place",
+   "name": "NASA Space Place",
+   "url": "https://spaceplace.nasa.gov",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Space games, crafts, and facts from NASA, made for kids.",
+   "type": "site"
+  },
+  {
+   "id": "natgeo-kids",
+   "name": "National Geographic Kids",
+   "url": "https://kids.nationalgeographic.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Animals, weird facts, quizzes, and videos from National Geographic.",
+   "type": "site"
+  },
+  {
+   "id": "britannica-kids",
+   "name": "Britannica Kids",
+   "url": "https://kids.britannica.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "A real encyclopedia for looking up animals, places, and history.",
+   "type": "site"
+  },
+  {
+   "id": "howstuffworks",
+   "name": "HowStuffWorks",
+   "url": "https://www.howstuffworks.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "How does that work? Articles that explain everyday things.",
+   "type": "site"
+  },
+  {
+   "id": "smithsonian",
+   "name": "Smithsonian",
+   "url": "https://www.si.edu",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Museums full of history, animals, airplanes, and space stuff.",
+   "type": "site"
+  },
+  {
+   "id": "project-gutenberg",
+   "name": "Project Gutenberg",
+   "url": "https://www.gutenberg.org",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Thousands of free books to read \u2014 classics, fairy tales, adventures.",
+   "type": "site"
+  },
+  {
+   "id": "san-diego-zoo-kids",
+   "name": "San Diego Zoo Wildlife Explorers",
+   "url": "https://kids.sandiegozoo.org",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Animal facts, stories, and live cams from the San Diego Zoo.",
+   "type": "site"
+  },
+  {
+   "id": "apod",
+   "name": "Astronomy Picture of the Day",
+   "url": "https://apod.nasa.gov",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "A new space photo every day, with the story behind it.",
+   "type": "site"
+  },
+  {
+   "id": "google-arts-culture",
+   "name": "Google Arts & Culture",
+   "url": "https://artsandculture.google.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Walk through famous museums and zoom into amazing art.",
+   "type": "site"
+  },
+  {
+   "id": "exploratorium",
+   "name": "Exploratorium",
+   "url": "https://www.exploratorium.edu",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Weird science experiments and hands-on ideas from a famous museum.",
+   "type": "site"
+  },
+  {
+   "id": "neal-fun",
+   "name": "Neal.fun",
+   "url": "https://neal.fun",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Tiny playful experiments \u2014 draw a perfect circle, spend a billionaire's money, sink to the bottom of the ocean.",
+   "type": "site"
+  },
+  {
+   "id": "scale-of-the-universe",
+   "name": "The Scale of the Universe 2",
+   "url": "https://htwins.net/scale2/",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Zoom from the tiniest atom all the way out to the whole universe.",
+   "type": "site"
+  },
+  {
+   "id": "stellarium-web",
+   "name": "Stellarium Web",
+   "url": "https://stellarium-web.org",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "A star map in your browser \u2014 find planets and constellations in the night sky.",
+   "type": "site"
+  },
+  {
+   "id": "monterey-bay-aquarium",
+   "name": "Monterey Bay Aquarium",
+   "url": "https://www.montereybayaquarium.org",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Watch live cams of sea otters, penguins, jellyfish, and sharks.",
+   "type": "site"
+  },
+  {
+   "id": "zoomquilt",
+   "name": "Zoomquilt",
+   "url": "https://zoomquilt.org",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "A painting that zooms in forever \u2014 every picture hides another picture inside it.",
+   "type": "site"
+  },
+  {
+   "id": "kid-should-see-this",
+   "name": "The Kid Should See This",
+   "url": "https://thekidshouldseethis.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Smart, surprising videos picked by hand \u2014 animals, inventions, how things are made.",
+   "type": "site"
+  },
+  {
+   "id": "mark-rober",
+   "name": "Mark Rober",
+   "url": "https://www.youtube.com/@MarkRober",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "A former NASA engineer builds wild inventions and tests them.",
+   "type": "channel",
+   "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg"
+  },
+  {
+   "id": "kurzgesagt",
+   "name": "Kurzgesagt \u2013 In a Nutshell",
+   "url": "https://www.youtube.com/@kurzgesagt",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Beautiful animated videos about space, the body, and big questions.",
+   "type": "channel",
+   "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q"
+  },
+  {
+   "id": "scishow",
+   "name": "SciShow",
+   "url": "https://www.youtube.com/@SciShow",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Quick science news and answers to strange questions.",
+   "type": "channel",
+   "channel_id": "UCZYTClx2T1of7BRZ86-8fow"
+  },
+  {
+   "id": "scishow-kids",
+   "name": "SciShow Kids",
+   "url": "https://www.youtube.com/@SciShowKids",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Science questions answered for younger kids, with experiments to try.",
+   "type": "channel",
+   "channel_id": "UCRFIPG2u1DxKLNuE3y2SjHA"
+  },
+  {
+   "id": "crash-course-kids",
+   "name": "Crash Course Kids",
+   "url": "https://www.youtube.com/@CrashCourseKids",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Fast, funny science lessons about Earth, space, and engineering.",
+   "type": "channel",
+   "channel_id": "UCONtPx56PSebXJOxbFv-2jQ"
+  },
+  {
+   "id": "veritasium",
+   "name": "Veritasium",
+   "url": "https://www.youtube.com/@veritasium",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Science puzzles and experiments that make you think twice.",
+   "type": "channel",
+   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA"
+  },
+  {
+   "id": "minute-earth",
+   "name": "MinuteEarth",
+   "url": "https://www.youtube.com/@MinuteEarth",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Short animated videos about how our planet works.",
+   "type": "channel",
+   "channel_id": "UCeiYXex_fwgYDonaTcSIk6w"
+  },
+  {
+   "id": "smarter-every-day",
+   "name": "Smarter Every Day",
+   "url": "https://www.youtube.com/@SmarterEveryDay",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Slow-motion cameras and real experiments explore how things work.",
+   "type": "channel",
+   "channel_id": "UC6107grRI4m0o2-emgoDnAA"
+  },
+  {
+   "id": "pbs-eons",
+   "name": "PBS Eons",
+   "url": "https://www.youtube.com/@eons",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Dinosaurs, fossils, and the story of life on Earth long ago.",
+   "type": "channel",
+   "channel_id": "UCzR-rom72PHN9Zg7RML9EbA"
+  },
+  {
+   "id": "numberphile",
+   "name": "Numberphile",
+   "url": "https://www.youtube.com/@Numberphile",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Mathematicians show off the coolest numbers and puzzles.",
+   "type": "channel",
+   "channel_id": "UCoxcjq-8xIDTYp3uz647V5A"
+  },
+  {
+   "id": "pbs-kids",
+   "name": "PBS KIDS",
+   "url": "https://pbskids.org",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Games and shows with characters you know from PBS.",
+   "type": "site"
+  },
+  {
+   "id": "cool-math-games",
+   "name": "Cool Math Games",
+   "url": "https://www.coolmathgames.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Logic, strategy, and puzzle games that sneak in math practice.",
+   "type": "site"
+  },
+  {
+   "id": "math-playground",
+   "name": "Math Playground",
+   "url": "https://www.mathplayground.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Math and logic games \u2014 puzzles, fractions, and brain teasers.",
+   "type": "site"
+  },
+  {
+   "id": "code-org",
+   "name": "Code.org",
+   "url": "https://code.org",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Learn to code with games and activities, step by step.",
+   "type": "site"
+  },
+  {
+   "id": "makecode-arcade",
+   "name": "MakeCode Arcade",
+   "url": "https://arcade.makecode.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Make your own retro video games with blocks or code.",
+   "type": "site"
+  },
+  {
+   "id": "photopea",
+   "name": "Photopea",
+   "url": "https://www.photopea.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "A free photo and drawing editor that works like Photoshop.",
+   "type": "site"
+  },
+  {
+   "id": "piskel",
+   "name": "Piskel",
+   "url": "https://www.piskelapp.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Draw pixel art and make your own animated sprites.",
+   "type": "site"
+  },
+  {
+   "id": "kleki",
+   "name": "Kleki",
+   "url": "https://kleki.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "A simple paint tool for drawing whatever you imagine.",
+   "type": "site"
+  },
+  {
+   "id": "beepbox",
+   "name": "BeepBox",
+   "url": "https://beepbox.co",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Make your own songs and chiptune melodies in the browser.",
+   "type": "site"
+  },
+  {
+   "id": "autodraw",
+   "name": "AutoDraw",
+   "url": "https://www.autodraw.com",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Scribble a doodle and it guesses what you are drawing \u2014 then neatens it up.",
+   "type": "site"
+  },
+  {
+   "id": "lofi-girl",
+   "name": "Lofi Girl",
+   "url": "https://www.youtube.com/@LofiGirl",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Calm lofi music streams for reading, drawing, and winding down.",
+   "type": "channel",
+   "channel_id": "UCSJ4gkVC6NrvII8umztf0Ow"
+  },
+  {
+   "id": "piano-guys",
+   "name": "The Piano Guys",
+   "url": "https://www.youtube.com/@ThePianoGuys",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Piano and cello covers of songs you know, filmed in amazing places.",
+   "type": "channel",
+   "channel_id": "UCmKurapML4BF9Bjtj4RbvXw"
+  },
+  {
+   "id": "pentatonix",
+   "name": "Pentatonix",
+   "url": "https://www.youtube.com/@PTXofficial",
+   "categories": null,
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Five singers make whole songs using only their voices.",
+   "type": "channel",
+   "channel_id": "UCmv1CLT6ZcFdTJMHxaR9XeA"
+  },
+  {
+   "id": "pokemon-official",
+   "name": "Pok\u00e9mon Official Site",
+   "url": "https://www.pokemon.com",
+   "categories": null,
+   "profiles": [
+    "katrina"
+   ],
+   "why_kid": "The official Pok\u00e9mon place \u2014 Pok\u00e9dex, news, and card galleries.",
+   "type": "site"
+  },
+  {
+   "id": "pokemon-database",
+   "name": "Pok\u00e9mon Database",
+   "url": "https://pokemondb.net",
+   "categories": null,
+   "profiles": [
+    "katrina"
+   ],
+   "why_kid": "Every Pok\u00e9mon's stats, moves, and evolutions, easy to look up.",
+   "type": "site"
+  },
+  {
+   "id": "bulbapedia",
+   "name": "Bulbapedia",
+   "url": "https://bulbapedia.bulbagarden.net",
+   "categories": null,
+   "profiles": [
+    "katrina"
+   ],
+   "why_kid": "The giant Pok\u00e9mon encyclopedia \u2014 every Pok\u00e9mon, game, and episode.",
+   "type": "site"
+  },
+  {
+   "id": "colorful-stage",
+   "name": "Hatsune Miku: Colorful Stage! (Official Site)",
+   "url": "https://www.colorfulstage.com",
+   "categories": null,
+   "profiles": [
+    "katrina"
+   ],
+   "why_kid": "The official site for the Colorful Stage game \u2014 meet the bands and characters.",
+   "type": "site"
+  },
+  {
+   "id": "mystery-skulls-band",
+   "name": "Mystery Skulls",
+   "url": "https://www.youtube.com/@mysteryskulls",
+   "categories": null,
+   "profiles": [
+    "katrina"
+   ],
+   "why_kid": "The official channel of the band Mystery Skulls.",
+   "type": "channel",
+   "channel_id": "UC0jd1RjiMOAbs4CikoADJGA"
+  },
+  {
+   "id": "mystery-skulls-animated",
+   "name": "Mystery Skulls Animated (Mystery Ben)",
+   "url": "https://www.youtube.com/@mysteryben27",
+   "categories": null,
+   "profiles": [
+    "katrina"
+   ],
+   "why_kid": "The Mystery Skulls Animated cartoons \u2014 Ghost, Hellbent, Freaking Out, and more.",
+   "type": "channel",
+   "channel_id": "UCT2SpyOpcX7nt6VAfmiQdzg"
+  },
+  {
+   "id": "game-theory",
+   "name": "Game Theory",
+   "url": "https://www.youtube.com/@GameTheory",
+   "categories": null,
+   "profiles": [
+    "katrina"
+   ],
+   "why_kid": "Hidden lore and secrets in games like FNAF, Minecraft, and Pok\u00e9mon, investigated.",
+   "type": "channel",
+   "channel_id": "UCo_IB5145EVNcf8hw1Kku7w"
+  },
+  {
+   "id": "wiljum",
+   "name": "Willjum",
+   "url": "https://www.youtube.com/@Willjum",
+   "categories": null,
+   "profiles": [
+    "lyra"
+   ],
+   "why_kid": "Calm solo Rust adventures \u2014 building, exploring, and telling a story.",
+   "type": "channel",
+   "channel_id": "UCzOfLNkiScJp3U_h_QlvHHg"
+  },
+  {
+   "id": "zelda-official",
+   "name": "The Legend of Zelda \u2014 Official Site",
+   "url": "https://zelda.nintendo.com",
+   "categories": null,
+   "profiles": [
+    "lyra"
+   ],
+   "why_kid": "The official Zelda place \u2014 games, characters, and news from Nintendo.",
+   "type": "site"
+  },
+  {
+   "id": "zelda-wiki",
+   "name": "Zelda Wiki",
+   "url": "https://zeldawiki.wiki",
+   "categories": null,
+   "profiles": [
+    "lyra"
+   ],
+   "why_kid": "The big Zelda encyclopedia \u2014 every game, character, and item explained.",
+   "type": "site"
+  },
+  {
+   "id": "strategywiki-zelda-totk",
+   "name": "StrategyWiki \u2014 Zelda: Tears of the Kingdom Guide",
+   "url": "https://strategywiki.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom",
+   "categories": null,
+   "profiles": [
+    "lyra"
+   ],
+   "why_kid": "Step-by-step guides for when you are stuck in a Zelda game.",
+   "type": "site"
+  },
+  {
+   "id": "zelda-universe-tv",
+   "name": "Zelda Universe",
+   "url": "https://www.youtube.com/@ZeldaUniverseTV",
+   "categories": null,
+   "profiles": [
+    "lyra"
+   ],
+   "why_kid": "Zelda news, music covers, and Zelda stories with full voice acting.",
+   "type": "channel",
+   "channel_id": "UC8DD7_tYkKvWsm2DkMVfVIg"
+  }
+ ]
+}

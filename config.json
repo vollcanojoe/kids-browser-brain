@@ -1,0 +1,13 @@
+{
+ "feed_retry": {
+  "attempts": 6,
+  "backoff_seconds": [
+   0.8,
+   1.5,
+   2.5,
+   4,
+   6
+  ]
+ },
+ "shelf_cache_ttl_hours": 24
+}
