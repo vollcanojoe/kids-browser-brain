@@ -359,6 +359,19 @@
    "channel_id": "UCzR-rom72PHN9Zg7RML9EbA"
   },
   {
+   "id": "smallant",
+   "name": "SmallAnt",
+   "url": "https://www.youtube.com/@SmallAnt",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Speedruns and challenge runs through Mario, Pok\u00e9mon, and Minecraft \u2014 beating games in ways they were never meant to be beaten.",
+   "type": "channel",
+   "channel_id": "UC0VVYtw21rg2cokUystu2Dw"
+  },
+  {
    "id": "numberphile",
    "name": "Numberphile",
    "url": "https://www.youtube.com/@Numberphile",
