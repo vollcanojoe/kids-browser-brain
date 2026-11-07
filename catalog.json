@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01",
+ "generated_at": "2026-11-07",
  "records": [
   {
    "id": "wikipedia-en",
@@ -679,6 +679,188 @@
    "why_kid": "Zelda news, music covers, and Zelda stories with full voice acting.",
    "type": "channel",
    "channel_id": "UC8DD7_tYkKvWsm2DkMVfVIg"
+  },
+  {
+   "id": "smallant-vods",
+   "name": "SmallAnt VODs",
+   "url": "https://www.youtube.com/@SmallAntVODS",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Full uncut recordings of SmallAnt's streams \u2014 the long versions of the runs on his main channel.",
+   "type": "channel",
+   "channel_id": "UC4wO7RzQNfth5EXXsqhMqeg"
+  },
+  {
+   "id": "yogscast",
+   "name": "Yogscast",
+   "url": "https://www.youtube.com/@yogscast",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "The Yogscast crew playing games together \u2014 Minecraft, silliness, and group chaos.",
+   "type": "channel",
+   "channel_id": "UCH-_hzb2ILSCo9ftVSnrCIQ"
+  },
+  {
+   "id": "cartoon-network",
+   "name": "Cartoon Network",
+   "url": "https://www.youtube.com/@cartoonnetwork",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Cartoon Network's official channel \u2014 also where Toonami and Boomerang clips live.",
+   "type": "channel",
+   "channel_id": "UCMsgXPD3wzzt8RxHJmXH7hQ"
+  },
+  {
+   "id": "nickelodeon",
+   "name": "Nickelodeon",
+   "url": "https://www.youtube.com/@Nickelodeon",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Nickelodeon's official channel \u2014 clips and full scenes from its cartoons.",
+   "type": "channel",
+   "channel_id": "UC5M_h2S8Ldoc9M6f7B-_m6A"
+  },
+  {
+   "id": "slow-mo-guys",
+   "name": "The Slow Mo Guys",
+   "url": "https://www.youtube.com/@theslowmoguys",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Gav and Dan film everything in extreme slow motion \u2014 splashes, shatters, and science at thousands of frames per second.",
+   "type": "channel",
+   "channel_id": "UCUK0HBIBWgM2c4vsPhkYY4w"
+  },
+  {
+   "id": "adam-savage-tested",
+   "name": "Adam Savage's Tested",
+   "url": "https://www.youtube.com/@tested",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Adam Savage, from MythBusters, builds props and shop projects one obsessive detail at a time.",
+   "type": "channel",
+   "channel_id": "UCiDJtJKMICpb9B1qf7qjEOA"
+  },
+  {
+   "id": "mythbusters",
+   "name": "MythBusters",
+   "url": "https://www.youtube.com/@Mythbusterstvshow",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "The MythBusters test urban legends with experiments, builds, and controlled explosions.",
+   "type": "channel",
+   "channel_id": "UChUAaNhjdc1aN5f_29BPrhw"
+  },
+  {
+   "id": "science-channel",
+   "name": "Science Channel",
+   "url": "https://www.youtube.com/@sciencechannel",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Science Channel's official channel \u2014 where How It's Made segments live.",
+   "type": "channel",
+   "channel_id": "UCvJiYiBUbw4tmpRSZT2r1Hw"
+  },
+  {
+   "id": "discovery",
+   "name": "Discovery",
+   "url": "https://www.youtube.com/@Discovery",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Discovery Channel's official channel \u2014 where Dirty Jobs clips and episodes live.",
+   "type": "channel",
+   "channel_id": "UCqOoboPm3uhY_YXhvhmL-WA"
+  },
+  {
+   "id": "history-channel",
+   "name": "HISTORY",
+   "url": "https://www.youtube.com/@HISTORY",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "The History Channel's official channel \u2014 where Modern Marvels episodes live.",
+   "type": "channel",
+   "channel_id": "UC9MAhZQQd9egwWCxrwSIsJQ"
+  },
+  {
+   "id": "national-geographic",
+   "name": "National Geographic",
+   "url": "https://www.youtube.com/@NatGeo",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "National Geographic's official channel \u2014 animals, science, and exploration.",
+   "type": "channel",
+   "channel_id": "UCpVm7bg6pXKo1Pr6k5kxG9A"
+  },
+  {
+   "id": "king-of-random",
+   "name": "The King of Random",
+   "url": "https://www.youtube.com/@TheKingofRandom",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "The King of Random (TKOR) \u2014 big DIY experiments, builds, and backyard science.",
+   "type": "channel",
+   "channel_id": "UC1zZE_kJ8rQHgLTVfobLi_g"
+  },
+  {
+   "id": "disney-channel",
+   "name": "Disney Channel",
+   "url": "https://www.youtube.com/@disneychannel",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Disney Channel's official channel \u2014 where Disney XD shows live too.",
+   "type": "channel",
+   "channel_id": "UCktaw9L-f65LzUUdjmCFkbQ"
+  },
+  {
+   "id": "direwolf20",
+   "name": "Direwolf20",
+   "url": "https://www.youtube.com/@direwolf20",
+   "categories": "Videos",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "Direwolf20 plays modded Minecraft, explaining every machine and system as he builds it.",
+   "type": "channel",
+   "channel_id": "UC_ViSsVg_3JUDyLS3E2Un5g"
   }
  ]
 }
