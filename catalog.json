@@ -861,6 +861,18 @@
    "why_kid": "Direwolf20 plays modded Minecraft, explaining every machine and system as he builds it.",
    "type": "channel",
    "channel_id": "UC_ViSsVg_3JUDyLS3E2Un5g"
+  },
+  {
+   "id": "saucer-snatch",
+   "name": "Saucer Snatch",
+   "url": "https://cdn.jsdelivr.net/gh/vollcanojoe/kids-browser-brain@main/games/saucer-snatch.html",
+   "categories": "Games",
+   "profiles": [
+    "katrina",
+    "lyra"
+   ],
+   "why_kid": "A tiny arcade game Jarvis made \u2014 pilot a friendly alien's saucer, catch stars and gems, dodge the space rocks.",
+   "type": "site"
   }
  ]
 }
